@@ -1,2 +1,2 @@
 # Language-classifier
-Decision tree 
+Determine if the given text is in dutch or english
